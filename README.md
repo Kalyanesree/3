@@ -50,7 +50,7 @@ For different input combinations generate the timing diagram.
 Program:
 
 
-![4](https://github.com/Kalyanesree/3/assets/163311552/efc43d98-baa8-4551-8c40-8e3aa139735a)
+![PROGRAM](https://github.com/Kalyanesree/3/assets/163311552/07ac8abe-dfe4-4809-a0c8-4d72c3cf0a5e)
 
 
 Developed by: KALYANE SREE M    RegisterNumber: 212222050028
