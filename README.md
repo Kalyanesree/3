@@ -1,10 +1,10 @@
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
+**Implementation-of-Half-Adder-and-Half Subtractor-circuit**
 
-AIM:
+**AIM:**
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
-Equipments Required:
+**Equipments Required:**
 
 Hardware – PCs, Cyclone II , USB flasher
 
@@ -49,7 +49,6 @@ For different input combinations generate the timing diagram.
 
 Program:
 
-
 ![PROGRAM](https://github.com/Kalyanesree/3/assets/163311552/07ac8abe-dfe4-4809-a0c8-4d72c3cf0a5e)
 
 
@@ -57,8 +56,10 @@ Developed by: KALYANE SREE M    RegisterNumber: 212222050028
 
 RTL Schematic
 
-![5](https://github.com/Kalyanesree/3/assets/163311552/9898ac5b-b6ee-4a65-8a07-db30faee567d) 
+![5](https://github.com/Kalyanesree/3/assets/163311552/9898ac5b-b6ee-4a65-8a07-db30faee567d)
+
 HALF SUBTRACTOR
+
 ![6](https://github.com/Kalyanesree/3/assets/163311552/d8dc809a-c068-48be-b554-a79f746ab6a5)
 ![7](https://github.com/Kalyanesree/3/assets/163311552/d6af4e97-86c9-475a-be00-2eace43152cd)
 
