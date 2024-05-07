@@ -33,8 +33,6 @@ Diff = A’B+AB’ =A ⊕ B Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-Truthtable
-
 Procedure
 
 Type the program in Quartus software.
